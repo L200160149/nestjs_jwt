@@ -1,0 +1,7 @@
+npm i --save @nestjs/passport passport passport-local
+
+npm i --save-dev @types/passport-local
+
+npm i express-session
+
+npm i --save @nestjs/jwt passport-jwt
